@@ -1,0 +1,133 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Bugly (2.4.2)
+  - CocoaAsyncSocket (7.5.1):
+    - CocoaAsyncSocket/GCD (= 7.5.1)
+  - CocoaAsyncSocket/GCD (7.5.1)
+  - CocoaMQTT (1.0.11):
+    - CocoaAsyncSocket (~> 7.5.1)
+    - MSWeakTimer (~> 1.1.0)
+  - CocoaSecurity (1.2.4)
+  - CXAlertView (1.1.0)
+  - EAIntroView (2.10.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - FCUUID (1.3.1):
+    - UICKeyChainStore (~> 2.1.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - IQKeyboardManager (4.0.7)
+  - M13BadgeView (1.0.4)
+  - Masonry (0.6.4)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - MSWeakTimer (1.1.0)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - RFRotate (1.0)
+  - SDCycleScrollView (1.65):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - tingyunApp (2.5.0)
+  - TMCache (2.1.0)
+  - Toast (3.1.0)
+  - Typhoon (3.3.4):
+    - Typhoon/no-arc (= 3.3.4)
+  - Typhoon/no-arc (3.3.4)
+  - UICKeyChainStore (2.1.0)
+  - UMengAnalytics (4.1.4)
+  - UMengSocial (5.0)
+  - WebViewJavascriptBridge (5.0.5)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - Bugly
+  - CocoaMQTT
+  - CocoaSecurity
+  - CXAlertView
+  - EAIntroView
+  - FCUUID
+  - FMDB
+  - IQKeyboardManager
+  - M13BadgeView
+  - Masonry (~> 0.6.3)
+  - MBProgressHUD
+  - MJRefresh
+  - NJKWebViewProgress
+  - ReactiveCocoa (~> 2.5)
+  - RFRotate
+  - SDCycleScrollView
+  - tingyunApp
+  - TMCache
+  - Toast
+  - Typhoon (~> 3.3.0)
+  - UMengAnalytics
+  - UMengSocial
+  - WebViewJavascriptBridge
+  - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Bugly: b09cd3c7e54048a0e079be88a7a99610f14eab8f
+  CocoaAsyncSocket: e0a7e93b2ffa411592ff87e58524fbbc9b95b4fa
+  CocoaMQTT: 41a67eab08a8c8aa3c0be6f55ef2f4ace197f193
+  CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+  CXAlertView: 7387ca9af81796ab22d26ff2fc3cfcb082f3ee09
+  EAIntroView: 3494b7bbd1212e3a4f7e8d16194a1b00e7b9abb2
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  FCUUID: bb054fc90cd7cd99320f9f6ff8e130fe607fba05
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  IQKeyboardManager: 69002bb4fea60596b710e57d426abc00e5063630
+  M13BadgeView: 700dd0714fdc837c0cf1c8c004454963ec22441f
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MSWeakTimer: 9426150f933b80ed3acf3f6d228e4b61f0e303c8
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  RFRotate: 6ca9916e0a0111b0d49bef3881e968c4cc74cf82
+  SDCycleScrollView: f72904c77698a7f93a41bcbbc2d78b073bf7326c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  tingyunApp: 640ed24c0e63799a78e89b376f80fd370605c6f3
+  TMCache: 95ebcc9b3c7e90fb5fd8fc3036cba3aa781c9bed
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  Typhoon: 555e580d7edaaf61c5367c2a80c15a0ddb368406
+  UICKeyChainStore: f1cbd42216a113f0165de1e733e62905b8823432
+  UMengAnalytics: 0bde5737767dfc18afb03a4cd6ba9d57bb2ad10d
+  UMengSocial: 48b67179c492a8cf7803fbb0438b8f55432e2fc1
+  WebViewJavascriptBridge: a4d502315f1b8d9a51cd6a9174147ed567ec3bc5
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 082a28beffb75d67ce6661268a1ef53197e82595
+
+COCOAPODS: 1.2.0.beta.1
